@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "nombre": "Juan",
+        "apellido": "Lopez",
+        "nivel": 2,
+        "grado": 3
+    },
+    {
+        "id": 1,
+        "nombre": "Juan",
+        "apellido": "Lopez",
+        "nivel": 2,
+        "grado": 3
+    }
+]
